@@ -1,0 +1,11 @@
+numpy, pandas
+
+# wizualizacja danych
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# statystyczna analiza danych
+from scipy import stats
+
+# przygotowanie danych
+from sklearn.preprocessing import StandardScaler, MinMaxScaler
